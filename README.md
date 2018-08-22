@@ -9,7 +9,7 @@ npm install {{name}}
 ## Usage
 
 ``` js
-var {{name}} = require('{{name}}')
+const {{name}} = require('{{name}}')
 ```
 
 ## License
